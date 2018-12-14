@@ -1,0 +1,10 @@
+#pastas do workspace
+.metadata/
+.recommenders/
+RemoteSystemTempFiles/
+[Ss]ervers/
+
+#pastas e quivos dos projetos
+lib/
+.settings/
+*.class
